@@ -13,11 +13,11 @@ from six.moves.urllib.parse import quote
 __version__ = '1.3.0'
 
 # Use these constants in the conf.py for Sphinx in your repository
-AUTHOR = 'edX Inc.'
-COPYRIGHT = '2017, edX Inc.'
+AUTHOR = 'EducateWorkforce'
+COPYRIGHT = '2017, EducateWorkforce'
 
-FEEDBACK_FORM_FMT = "https://docs.google.com/forms/d/1T5QGnYb_QnQoMO7T_eatq02miPTY40WVe3cgGphNAdY/" \
-                    "viewform?entry.1952574704&entry.241692674={pageid}"
+FEEDBACK_FORM_FMT = "https://docs.google.com/forms/d/e/1FAIpQLSe6_MOxFaa_wDt7PObo4-v9UZ7-mEhNF7h6lIPSQqaZ1ykc4Q/" \
+                    "viewform?entry.1699859017&entry.147198744={pageid}"
 
 
 def get_html_theme_path():
